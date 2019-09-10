@@ -1,0 +1,11 @@
+C:\Users\house\workspace\menssage\Send\bin\Debug\netcoreapp2.2\Send.deps.json
+C:\Users\house\workspace\menssage\Send\bin\Debug\netcoreapp2.2\Send.runtimeconfig.json
+C:\Users\house\workspace\menssage\Send\bin\Debug\netcoreapp2.2\Send.runtimeconfig.dev.json
+C:\Users\house\workspace\menssage\Send\bin\Debug\netcoreapp2.2\Send.dll
+C:\Users\house\workspace\menssage\Send\bin\Debug\netcoreapp2.2\Send.pdb
+C:\Users\house\workspace\menssage\Send\obj\Debug\netcoreapp2.2\Send.csprojAssemblyReference.cache
+C:\Users\house\workspace\menssage\Send\obj\Debug\netcoreapp2.2\Send.csproj.CoreCompileInputs.cache
+C:\Users\house\workspace\menssage\Send\obj\Debug\netcoreapp2.2\Send.AssemblyInfoInputs.cache
+C:\Users\house\workspace\menssage\Send\obj\Debug\netcoreapp2.2\Send.AssemblyInfo.cs
+C:\Users\house\workspace\menssage\Send\obj\Debug\netcoreapp2.2\Send.dll
+C:\Users\house\workspace\menssage\Send\obj\Debug\netcoreapp2.2\Send.pdb

@@ -1,0 +1,11 @@
+C:\Users\house\workspace\menssage\Worker\bin\Debug\netcoreapp2.2\Worker.deps.json
+C:\Users\house\workspace\menssage\Worker\bin\Debug\netcoreapp2.2\Worker.runtimeconfig.json
+C:\Users\house\workspace\menssage\Worker\bin\Debug\netcoreapp2.2\Worker.runtimeconfig.dev.json
+C:\Users\house\workspace\menssage\Worker\bin\Debug\netcoreapp2.2\Worker.dll
+C:\Users\house\workspace\menssage\Worker\bin\Debug\netcoreapp2.2\Worker.pdb
+C:\Users\house\workspace\menssage\Worker\obj\Debug\netcoreapp2.2\Worker.csprojAssemblyReference.cache
+C:\Users\house\workspace\menssage\Worker\obj\Debug\netcoreapp2.2\Worker.csproj.CoreCompileInputs.cache
+C:\Users\house\workspace\menssage\Worker\obj\Debug\netcoreapp2.2\Worker.AssemblyInfoInputs.cache
+C:\Users\house\workspace\menssage\Worker\obj\Debug\netcoreapp2.2\Worker.AssemblyInfo.cs
+C:\Users\house\workspace\menssage\Worker\obj\Debug\netcoreapp2.2\Worker.dll
+C:\Users\house\workspace\menssage\Worker\obj\Debug\netcoreapp2.2\Worker.pdb
